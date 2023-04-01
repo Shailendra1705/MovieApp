@@ -1,0 +1,3 @@
+class ProductionCountry < ApplicationRecord
+    
+end
